@@ -1,1 +1,34 @@
+/* Using the Nord theme https://www.nordtheme.com/ */
 
+body {
+  background-color: #3b4252;
+}
+
+.jumbotron {
+  background-color: #2e3440;
+}
+
+.card {
+  background-color: #4c566a;
+}
+
+.btn-primary {
+  background-color: #434c5e;
+}
+
+footer {
+  background-color: #2e3440;
+}
+
+.container-fluid {
+  background-color: #2e3440;
+}
+
+.me {
+  border-radius: 29% 29% 44% 44%;
+  max-width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

@@ -32,3 +32,22 @@ footer {
   margin-right: auto;
   width: 50%;
 }
+
+.col-md-6 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+form {
+  color: white;
+}
+
+.form {
+  width: 60%;
+}
+
+.form-group {
+  padding: 15px 10px;
+
+  background-color: #2e3440;
+}

@@ -1,3 +1,3 @@
 # Bootstrap.js layout portfolio
 
-A portfolio diplaying projects made from WD85.
+This project expands on our understandings of html frameworks by having us build a responsive layout to showcase our projects created in WD85.
